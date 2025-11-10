@@ -1,8 +1,4 @@
-Here’s your **clean, final, and professionally structured README.md** —
-fully fixed, duplicates removed, and including your **Atlas URI section**.
-You can copy-paste this as your project’s complete README.
 
----
 
 # 🖼️ Online Poster Designer
 
@@ -223,9 +219,6 @@ npm run install:all
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -240,4 +233,4 @@ If you face any issue:
 
 ---
 
-✅ *Ready to copy this as your final `README.md` for GitHub — perfectly formatted and deploy-ready.*
+
