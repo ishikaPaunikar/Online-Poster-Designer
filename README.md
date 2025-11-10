@@ -1,8 +1,8 @@
-# Fullstack Authentication App# Fullstack Authentication App# Fullstack Authentication App# Fullstack Authentication App# Fullstack Authentication App# Fullstack Authentication App
 
 
 
-A complete authentication system with Node.js/Express backend and React frontend featuring user authentication and design editor.
+
+A Online Poster Designer system with Node.js backend and React frontend featuring user authentication and design editor.
 
 
 
@@ -61,6 +61,7 @@ This starts:
 - Backend: http://localhost:5000
 
 - Frontend: http://localhost:3000
+//Frontend will run after 10-15 seconds let it load
 
 ### 2. Environment Setup## PrerequisitesA complete authentication system with Node.js/Express backend and React frontend featuring user authentication and design editor.A complete authentication system with Node.js/Express backend and React frontend featuring user authentication and design editor.
 
